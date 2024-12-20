@@ -39,12 +39,10 @@ This dataset can be utilized for:
 
 ### **Class Labels**
 Each staining method contains the following 18 classes:
-1. Class 1
-2. Class 2  
+1. Amorphead
+2. PinHead
 ...  
-18. Class 18  
-*(You can list the actual class names if available.)*
-
+18. CurlyTail
 ---
 
 ## ⚠️ Usage Terms
