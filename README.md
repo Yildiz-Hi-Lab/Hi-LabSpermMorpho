@@ -49,7 +49,16 @@ Each staining method contains the following 18 classes:
 
 If you use the **HilabspermMorpho** dataset in your research, please cite our publication:
 
-
+@article{aktas2024hilabspermmorpho,
+  title={Hi-LabSpermMorpho: A Novel Expert-Labeled Dataset with Extensive Abnormality Classes for Deep Learning-Based Sperm Morphology Analysis},
+  author={Aktas, Abdulsamet and Serbes, Gorkem and Huner Yigit, Merve 
+  and Aydin, Nizamettin and Uzun, Hakki and Ilhan, Hamza Osman},
+  journal={Ieee Access},
+  volume={},
+  pages={},
+  year={2024},
+  publisher={Ieee}
+}
 You can format the citation using the style preferred in your paper, such as APA, MLA, or BibTeX.
 
 ---
