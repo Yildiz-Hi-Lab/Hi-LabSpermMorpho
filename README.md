@@ -1,4 +1,4 @@
-# 🧬 HilabspermMorpho Dataset
+# 🧬 HiLabSpermMorpho Dataset
 
 ![image](https://github.com/user-attachments/assets/520e3f0e-6828-4a3f-a13e-1ca80c9c7f1f)
 
