@@ -15,6 +15,8 @@ The **HilabspermMorpho** dataset provides high-quality, labeled data for researc
 - **Staining Methods**: Includes Beslab HistoPlus and GBL staining techniques.
 - **Class Diversity**: 18 morphological classes for each staining method.
 - **High-Quality Data**: Captures intricate details of sperm samples.
+![image](https://github.com/user-attachments/assets/7447f3d8-077c-49f5-bcf1-254c4c6665b9)
+
 
 ---
 
@@ -24,6 +26,7 @@ This dataset can be utilized for:
 1. **Abnormality Detection**: Identify and classify abnormal sperm morphology.
 2. **Machine Learning Models**: Train and evaluate classification models.
 3. **Benchmarking**: Compare results across different algorithms.
+![image](https://github.com/user-attachments/assets/7a70d945-e08b-4f4b-9c1f-7ee8d3f36138)
 
 ---
 
