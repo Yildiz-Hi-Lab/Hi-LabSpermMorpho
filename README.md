@@ -65,6 +65,6 @@ You can format the citation using the style preferred in your paper, such as APA
 ## 📥 Download
 
 Download the dataset from the following link:  
-[https://drive.google.com/drive/folders/1lKsTQ-5fjwdDc-LkGlcugcRsiz5wo8pN?usp=drive_link](#)
+https://drive.google.com/drive/folders/1lKsTQ-5fjwdDc-LkGlcugcRsiz5wo8pN?usp=drive_link
 
 ---
