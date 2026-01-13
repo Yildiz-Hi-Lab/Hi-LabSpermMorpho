@@ -66,6 +66,6 @@ You can format the citation using the style preferred in your paper, such as APA
 
 Since the full dataset is currently utilized in other ongoing studies and contains extensive data that requires further analysis, the complete dataset cannot be made publicly available at this moment. 
 Download the minimal dataset (representative) from the following link:  
-https://drive.google.com/drive/folders/1TXLIC4s0KpnCqgvgY6VQ4dptv5K5tHQY?usp=drive_link
+https://drive.google.com/drive/folders/1TXLIC4s0KpnCqgvgY6VQ4dptv5K5tHQY?usp=sharing
 
 ---
